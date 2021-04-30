@@ -1,0 +1,28 @@
+Version History & expected features
+
+A initial re-coding
+A2 functional inproving
+A2b variables moved to .mat files
+A2c Auto plot
+A2d Full Matlab GUI
+A3e Added E mode & waitbar, Aeroelasticity initial implementation
+A4e Result Printing
+
+expected
+
+A5e aeroelastic static analisys and plots
+A6f aeroelastic dynamic analisys and plots
+A7f pre & post analysis
+A8 improved graphs
+A9 Aeroelastic flight simulation
+
+
+future
+
+elastic fuselage
+thrust stream influence on aircraft
+aeroservoelasticity
+round world & spaceflight simulation
+flight control system adaptability to aircraft
+aircraft capabilities flight trial simulation
+ground model improvement
