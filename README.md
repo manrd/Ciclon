@@ -2,7 +2,7 @@
 ### A Matlab toolbox for fixed-wing aircraft analysis and optimization,covering Aerodynamics, Performance, Stability and Control.
 ### Work in progress...
 
-![cover](https://github.com/manrd/Ciclon/tree/main/Images/ImEx1.PNG) 
+![cover](https://raw.githubusercontent.com/manrd/Ciclon/main/Images/ImEx1.PNG) 
 
 ## How to contribute
 
