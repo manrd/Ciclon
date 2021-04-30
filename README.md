@@ -1,5 +1,6 @@
 # Ciclon
-### An Android app for data acquisition and sensor logging.
+### A Matlab toolbox for fixed-wing aircraft analysis and optimization,covering Aerodynamics, Performance, Stability and Control.
+## Work in progress...
 
 ![cover](https://github.com/manrd/Ciclon/tree/main/Images/ImEx1.PNG) 
 
